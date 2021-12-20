@@ -11,6 +11,9 @@
 		<p>
 		  Note that FID is harder to replicate. You need to try to click in the button immediatelly after the page loads and it will vary from computer to computer. If you are implementing this demo, try changing the <code>busyBrowser()</code> function in the files. We used PHP only to demonstrate how server-side rendering can improve your CLS (see <code>cls_good.php</code>)
 		</p>
+		<p>
+		  The code is at <a href="https://github.com/cgbarros/cwv-demo">https://github.com/cgbarros/cwv-demo</a>
+		</p>
 
     <h2>LCP</h2>
     <p>
